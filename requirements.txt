@@ -1,0 +1,12 @@
+opencv-python
+numpy
+pandas
+openpyxl
+dlib-bin
+face-recognition-models
+Click
+Pillow
+
+# Windows note:
+# Install face-recognition after this file with:
+# .\.venv\Scripts\python.exe -m pip install face-recognition --no-deps
