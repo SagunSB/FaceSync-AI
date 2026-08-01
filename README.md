@@ -133,15 +133,3 @@ python gui_app.py
 * Live dashboard analytics
 
 ---
-
-## 👨‍💼 Author
-
-**Nilanjan Ghosh**
-
----
-
-## 📜 License
-
-This project is for educational purposes.
-
----
